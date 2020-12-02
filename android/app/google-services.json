@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "861656899152",
+    "firebase_url": "https://navbar-a3fdc.firebaseio.com",
+    "project_id": "navbar-a3fdc",
+    "storage_bucket": "navbar-a3fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861656899152:android:47b13d57649c8fcd40fb55",
+        "android_client_info": {
+          "package_name": "com.example.navbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861656899152-te45i3apsttsa4h5nltttje640ddjmbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.navbar",
+            "certificate_hash": "42b91993a5b42f2f73b10385474a512832032763"
+          }
+        },
+        {
+          "client_id": "861656899152-phl5p2orag2gtoihtpdq9ofrt7pq8lfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDf4XQffZQ_VSY1GfFc_bVTb6FPVyixLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861656899152-phl5p2orag2gtoihtpdq9ofrt7pq8lfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861656899152-2agvv432sqofff2hp8j2vihmi32s0sq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.navbar",
+                "app_store_id": "42069"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
